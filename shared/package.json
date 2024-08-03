@@ -1,0 +1,9 @@
+{
+    "name": "shared",
+    "version": "1.0.0",
+    "main": "util.js",
+    "dependencies": {
+      "@turf/turf": "^7.0.0",
+      "node-fetch": "^2.7.0"
+    }
+  }
