@@ -37,7 +37,7 @@ Starbucks OL Store Locator is a web application that allows users to view stores
 
 1. **Clone the repository**:
    ```sh
-   git clone https://github.com/yourusername/ol-store-locator.git
+   git clone https://github.com/synchoz/ol-store-locator.git
    cd ol-store-locator
 2. **Build and run the Docker containers:**:
    ```sh
@@ -61,7 +61,7 @@ Starbucks OL Store Locator is a web application that allows users to view stores
     cd backend
     npm start
 4. **Access the frontend:**:
-    Navigate to http://localhost:3000.
+    Navigate to http://localhost
 
 
 ![alt text](image.png)
